@@ -15,3 +15,10 @@ To determine and analyze to changing of vegetation areas in Bursa- Orhangazi sid
 
 
 ![](https://github.com/uysalah16/GEO468E/blob/main/readme%20images/NDVI_Traditional.jpg)
+
+## NDVI outputs
+- NDVI 2018 Image
+  ![](https://github.com/uysalah16/GEO468E/blob/main/readme%20images/NDVI%202018.JPG)
+
+- NDVI 2020 Image
+  ![](https://github.com/uysalah16/GEO468E/blob/main/readme%20images/NDVI%202020.JPG)
