@@ -22,3 +22,6 @@ To determine and analyze to changing of vegetation areas in Bursa- Orhangazi sid
 
 - NDVI 2020 Image
   ![](https://github.com/uysalah16/GEO468E/blob/main/readme%20images/NDVI%202020.JPG)
+## References
+- ["Hatarilabs NDVI calculation"](https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial)
+- ["What is NDVI?"] (https://gisgeography.com/ndvi-normalized-difference-vegetation-index/)
