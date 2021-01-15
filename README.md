@@ -7,3 +7,8 @@ To determine and analyze to changing of vegetation areas in Bursa- Orhangazi sid
 
 - B8 (nir) band of Sentinel-2 (2018 and 2020)
 ## Used libraries (in jupyter notebook) 
+- rasterio
+- numpy
+- mathplotlib
+## Index Description
+- The ratio of radiation reflected from healthy vegetation to radiation reflected from all other sources is essentially the normalized difference vegetation index (NDVI) and is determined by the pixel shown in the image.In order to create a photosynthetic creature, NDVI calculates the distinction between red and near-infrared (NIR) light reflectance from vegetation.
